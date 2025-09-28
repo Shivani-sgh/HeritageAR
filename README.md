@@ -1,4 +1,4 @@
-<img src="heritageAR-SIH/HeritageAR-(2).png">
+<img src="HeritageAR-(2).png" alt="HeritageAR" width="300">
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)

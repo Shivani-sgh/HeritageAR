@@ -17,9 +17,9 @@ HeritageAR is an Augmented Reality (AR) application that brings historical monum
 Below is the prototype of the HeritageAR app, showing the initial design and user interface.
 
 
-<img src="home.jpg" alt="HOME-PAGE" width="200">
-<img src="AR-1.jpg" alt="AR1" width="200">
-<img src="AR-2.jpg" alt="AR2" width="200">
+<img src="home.jpg" alt="HOME-PAGE" >
+<img src="AR-1.jpg" alt="AR1" >
+<img src="AR-2.jpg" alt="AR2" >
 
 ## Features
 - AR-based 3D interactive heritage models

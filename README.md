@@ -4,7 +4,7 @@
 ![ARFoundation](https://img.shields.io/badge/AR%20Foundation-0082FC?logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
-<img src="HeritageAR-(2).png" alt="HeritageAR" width="300">
+<img src="README_pictures/HeritageAR-(2).png" alt="HeritageAR" width="300">
 
 HeritageAR is an Augmented Reality (AR) application that brings historical monuments and cultural landmarks to life. Explore heritage sites in 3D, interact with them, and learn history in an immersive way.
 

@@ -9,19 +9,17 @@
 HeritageAR is an Augmented Reality (AR) application that brings historical monuments and cultural landmarks to life. Explore heritage sites in 3D, interact with them, and learn history in an immersive way.
 
 ## Installation
-1. Download the APK: [HeritageAR APK](link-to-your-apk)
+1. Download the APK: [HeritageAR APK](https://github.com/Shivani-sgh/heritageAR-SIH/releases/download/v1.0/heritageAR.apk)
 2. Install on Android device
 3. Open the app and explore heritage sites in AR
 
 ## Prototype Preview
 Below is the prototype of the HeritageAR app, showing the initial design and user interface.
 
-HOME PAGE
-<img src="home.jpg" alt="HOME-PAGE" width="300">
 
-AR VIEW OF TAJMAHAL
-<img src="AR-1.jpg" alt="AR1" width="300">
-<img src="AR-2.jpg" alt="AR2" width="300">
+<img src="home.jpg" alt="HOME-PAGE" width="200">
+<img src="AR-1.jpg" alt="AR1" width="200">
+<img src="AR-2.jpg" alt="AR2" width="200">
 
 ## Features
 - AR-based 3D interactive heritage models
@@ -39,10 +37,10 @@ FUTURE :
 - Firebase / Cloud backend
 
 ## MAKING OF HeritageAR
-<img src="Making-1.png" alt="making1">
-<img src="Making-2.jpeg" alt="making1">
-<img src="Making-3.jpeg" alt="making1">
-<img src="Making-4.jpeg" alt="making1">
+<img src="Making-1.png" alt="making1" width="100">
+<img src="Making-2.jpeg" alt="making1" width="100">
+<img src="Making-3.jpeg" alt="making1" width="100">
+<img src="Making-4.jpeg" alt="making1" width="100">
 
 ## Future Scope
 - Adding more historical sites  

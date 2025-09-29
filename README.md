@@ -16,14 +16,12 @@ HeritageAR is an Augmented Reality (AR) application that brings historical monum
 ## Prototype Preview
 Below is the prototype of the HeritageAR app, showing the initial design and user interface.
 
+HOME PAGE AND AR TAJMAHAL VIEW
 <p float="left">
-  <img src="home.jpg" width="200" />
-  <img src="AR-1.jpg" width="200" />
-  <img src="AR-2.jpg" width="200" />
+  <img src="home.jpg" width="250" />
+  <img src="AR-1.jpg" width="250" />
+  <img src="AR-2.jpg" width="250" />
 </p>
-<img src="home.jpg" alt="HOME-PAGE" >
-<img src="AR-1.jpg" alt="AR1" >
-<img src="AR-2.jpg" alt="AR2" >
 
 ## Features
 - AR-based 3D interactive heritage models
@@ -41,10 +39,9 @@ FUTURE :
 - Firebase / Cloud backend
 
 ## MAKING OF HeritageAR
-<img src="Making-1.png" alt="making1" width="100">
-<img src="Making-2.jpeg" alt="making1" width="100">
-<img src="Making-3.jpeg" alt="making1" width="100">
-<img src="Making-4.jpeg" alt="making1" width="100">
+<img src="Making-1.png" alt="making1" width="300">
+<img src="Making-2.jpeg" alt="making1" width="300">
+<img src="Making-3.jpeg" alt="making1" width="300">
 
 ## Future Scope
 - Adding more historical sites  

@@ -53,5 +53,6 @@ FUTURE :
 - Shivani - team lead
 - Sheetal - member
 - Shruti - member
+- Anjali - member
 - Shikha - member
 - Khushbu - member

@@ -39,9 +39,12 @@ FUTURE :
 - Firebase / Cloud backend
 
 ## MAKING OF HeritageAR
-<img src="Making-1.png" alt="making1" width="300">
-<img src="Making-2.jpeg" alt="making1" width="300">
-<img src="Making-3.jpeg" alt="making1" width="300">
+<p float="left">
+  <img src="Making-1.png" alt="making1" width="300">
+  <img src="Making-2.jpeg" alt="making1" width="300">
+  <img src="Making-3.jpeg" alt="making1" width="300">
+
+</p>
 
 ## Future Scope
 - Adding more historical sites  

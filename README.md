@@ -18,9 +18,9 @@ Below is the prototype of the HeritageAR app, showing the initial design and use
 
 HOME PAGE AND AR TAJMAHAL VIEW
 <p float="left">
-  <img src="home.jpg" width="250" />
-  <img src="AR-1.jpg" width="250" />
-  <img src="AR-2.jpg" width="250" />
+  <img src="README_pictures/home.jpg" width="250" />
+  <img src="README_pictures/AR-1.jpg" width="250" />
+  <img src="README_pictures/AR-2.jpg" width="250" />
 </p>
 
 ## Features
@@ -40,10 +40,9 @@ FUTURE :
 
 ## MAKING OF HeritageAR
 <p float="left">
-  <img src="Making-1.png" alt="making1" width="300">
-  <img src="Making-2.jpeg" alt="making1" width="300">
-  <img src="Making-3.jpeg" alt="making1" width="300">
-
+  <img src="README_pictures/Making-1.png" alt="making1" width="300">
+  <img src="README_pictures/Making-2.jpeg" alt="making1" width="300">
+  <img src="README_pictures/Making-3.jpeg" alt="making1" width="300">
 </p>
 
 ## Future Scope
